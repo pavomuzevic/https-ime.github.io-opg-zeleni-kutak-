@@ -1,0 +1,17 @@
+document.getElementById("kontaktForma").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  const ime = document.getElementById("ime").value;
+  const email = document.getElementById("email").value;
+
+  if (ime === "" || email === "") {
+    alert("Sva polja su obavezna!");
+    return;
+  }
+
+  localStorage.setItem("ime", ime);
+  localStorage.setItem("email", email);
+
+  document.getElementById("poruka").textContent =
+    "Hvala na javljanju, " + ime + "!";
+});

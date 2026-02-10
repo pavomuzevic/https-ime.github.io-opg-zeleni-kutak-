@@ -1,0 +1,15 @@
+opg-zeleni-gaj/
+│
+├── index.html
+├── proizvodi.html
+├── onama.html
+├── kontakt.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── form.js
+│
+└── images/
+    └── jabuke.jpg

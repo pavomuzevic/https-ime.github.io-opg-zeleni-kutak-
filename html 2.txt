@@ -1,0 +1,27 @@
+<main>
+  <section>
+    <h2>Naši proizvodi</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Proizvod</th>
+          <th>Cijena</th>
+          <th>Dostupnost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Jabuke</td>
+          <td>1,50 € / kg</td>
+          <td>Dostupno</td>
+        </tr>
+        <tr>
+          <td>Med</td>
+          <td>8 € / tegla</td>
+          <td>Ograničeno</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</main>

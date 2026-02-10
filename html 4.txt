@@ -1,0 +1,23 @@
+<main>
+  <section>
+    <h2>Kontaktirajte nas</h2>
+
+    <form id="kontaktForma">
+      <label>
+        Ime:
+        <input type="text" id="ime">
+      </label>
+
+      <label>
+        Email:
+        <input type="email" id="email">
+      </label>
+
+      <button type="submit">Pošalji</button>
+    </form>
+
+    <p id="poruka"></p>
+  </section>
+</main>
+
+<script src="js/form.js"></script>

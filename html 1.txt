@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <title>OPG Zeleni Gaj</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>OPG Zeleni Gaj</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Naslovna</a></li>
+      <li><a href="proizvodi.html">Proizvodi</a></li>
+      <li><a href="onama.html">O nama</a></li>
+      <li><a href="kontakt.html">Kontakt</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>Prirodni proizvodi s domaćih polja</h2>
+    <p>Naš OPG nudi svježe i ekološke proizvode.</p>
+    <img src="images/jabuke.jpg" alt="Domaće jabuke">
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2026 OPG Zeleni Gaj</p>
+</footer>
+
+</body>
+</html>
